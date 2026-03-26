@@ -40,7 +40,7 @@ python --version
 
 2. Clone the Repository
 Download the project files to your local system:
-git clone https://github.com/your-username/smart-campus-navigator.git
+git clone https://github.com/devesh18-design/Smart-Campus-Navigator
 cd smart-campus-navigator
 
 3. Install Required Libraries
