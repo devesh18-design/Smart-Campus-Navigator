@@ -49,7 +49,7 @@ pip install networkx matplotlib
 
 4. Execute the Script
 Run the main Python file to launch the visual navigator:
-python campus_navigator.py
+https://github.com/devesh18-design/Smart-Campus-Navigator/blob/main/Smart%20university%20navigator.py
 
 5. Interacting with the OutputThe Map Window: A window titled "Smart University Campus Navigator by Devesh Katneshwarkar" will appear.
 
