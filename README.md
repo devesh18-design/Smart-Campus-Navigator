@@ -4,7 +4,7 @@
 
 An intelligent, graph-based navigation system designed for university campuses. This project uses the A* Search Algorithm to find optimal walking paths, accounting for real-world factors like stairs, terrain quality, and accessibility.
 
-**Overview **
+**Overview** 
 
 Navigating large, developing campuses can be a challenge. Standard mapping tools often lack the granular detail of internal walking paths or fails to distinguish between a flat walkway and a steep staircase.
 Smart Campus Navigator transforms a physical campus layout into a digital State-Space Search Graph. By applying a cost-sensitive search, it provides users with the most efficient route based on their specific needs (e.g., avoiding stairs for heavy luggage or seeking them out for athletic training).
